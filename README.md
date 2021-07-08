@@ -1,2 +1,2 @@
 # SuboptimalPaths
-Reinforcement Learning via Prior Suboptimal Paths for Path Planning
+Reinforcement Learning via Human Suboptimal Policies for Path Planning
